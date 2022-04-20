@@ -20,7 +20,6 @@ namespace ResponsiPemrograman4409
             NAMA = nama;
             Gajiperbulan = gajiperbulan;
         }
-
         // properties
         public string NAMA { get; set; }
         public string NIK { get; set; }
